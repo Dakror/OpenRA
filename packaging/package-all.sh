@@ -37,7 +37,7 @@ rm -rf Markdown_1.0.1
 # List of files that are packaged on all platforms
 FILES=('OpenRA.Game.exe' 'OpenRA.Editor.exe' 'OpenRA.Utility.exe' \
 'OpenRA.Renderer.Sdl2.dll' 'OpenRA.Renderer.Null.dll' \
- 'lua' 'glsl' 'mods/common' 'mods/ra' 'mods/cnc' 'mods/d2k' 'mods/modchooser' \
+ 'lua' 'glsl' 'mods/common' 'mods/ra' 'mods/cnc' 'mods/d2k' 'mods/th' 'mods/ts' 'mods/modchooser' \
 'AUTHORS' 'COPYING' 'README.html' 'CONTRIBUTING.html' 'DOCUMENTATION.html' 'CHANGELOG.html' \
 'global mix database.dat' 'GeoLite2-Country.mmdb')
 
